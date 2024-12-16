@@ -1,7 +1,7 @@
 # Project Name - Melanoma-Skin-Cancer-Detection-using-CNN
 ## Brief Description :
 * Skin Cancer detection from images using Multiclass Image Classification with Custom CNNs in TensorFlow
-* Python Notebook present in this repo has been executed wuth GPU acceleration.
+* Python Notebook present in this repo has been executed with GPU acceleration.
 
 ## Table of Contents
 * [General Info](#general-information)
